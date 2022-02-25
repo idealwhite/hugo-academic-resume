@@ -20,7 +20,7 @@ abstract: Image inpainting task requires filling the corrupted image with
   analysis suggests that the generated images are consistent with the guidance
   text, enabling the generation of various results by providing different
   description
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -31,9 +31,7 @@ authors:
   - Shuoran Jiang
 author_notes: []
 publication: In *ACM MM 2020*, (Oral)
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *ACM Multimedia 2020*
@@ -44,10 +42,11 @@ subtitle: ""
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: Illustration of inpainting a unique area. (a) is guided inpainting case
+    with the original image description, (b) and (c) produces different new
+    contents while guided with altered texts.
   focal_point: ""
   preview_only: false
   filename: featured.png
@@ -59,11 +58,5 @@ url_code: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Zhang L, Chen Q, Hu B, et al. Text-guided neural image inpainting[C]//Proceedings of the 28th ACM International Conference on Multimedia. 2020: 1302-1310.
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
