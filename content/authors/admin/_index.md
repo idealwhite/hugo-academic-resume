@@ -1,7 +1,7 @@
 ---
 title: Lisai Zhang
 role: Phd student at HIT
-avatar_filename: 微信图片_20210122150128-2-.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include cross-modal generation and retrieval,
   including text-to-image synthesis, text-guided image inpainting, and
   text-to-image retrieval.
