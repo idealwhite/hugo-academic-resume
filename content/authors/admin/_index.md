@@ -2,12 +2,13 @@
 title: Lisai Zhang
 role: Phd student at HIT
 avatar_filename: 微信图片_20210122150128-2-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include cross-modal generation and retrieval,
+  including text-to-image synthesis, text-guided image inpainting, and
+  text-to-image retrieval.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - cross-modal generation
+  - cross-modal retrieval
+  - vision and language
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,25 +27,21 @@ organizations:
     url: https://hitsz.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: Harbin Institute of Technology, Shenzhen
       year: 2022
     - course: MEng in Computer Science
       institution: Harbin Institute of Technology, Shenzhen
       year: 2018
     - course: BSc in Software Engineering
-      institution: Harbin Institute of Technology, Shenzhen
+      institution: Harbin Institute of Technology
       year: 2016
-email: ""
+email: LisaiZhang@foxmail.com
 superuser: true
 highlight_name: true
 ---
 
-I'm a 4th year PhD student under the supervision of [Prof.Qingcai Chen](https://scholar.google.com/citations?user=7aR5D4sAAAAJ) at Intelligent Computing Research Center, Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)), Shenzhen.
-
-- Email: LisaiZhanng@foxmail.com
-- Here is my resume
-- My [google scholar](https://scholar.google.com/citations?user=Q3SVOv4AAAAJ)
+I'm a 4th year PhD student under the supervision of [Prof.Qingcai Chen](https://scholar.google.com/citations?user=7aR5D4sAAAAJ) at Intelligent Computing Research Center, Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)), Shenzhen. My research interests include cross-modal generation and retrieval, including vision-language models for text-to-image synthesis, text-guided image inpainting, and text-to-image retrieval.  Here is my [google scholar](https://scholar.google.com/citations?user=Q3SVOv4AAAAJ).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
