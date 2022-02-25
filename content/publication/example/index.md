@@ -44,9 +44,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: Illustration of inpainting a unique area. (a) is guided inpainting case
-    with the original image description, (b) and (c) produces different new
-    contents while guided with altered texts.
+  caption: "Illustration of inpainting a unique area. "
   focal_point: ""
   preview_only: false
   filename: featured.png
