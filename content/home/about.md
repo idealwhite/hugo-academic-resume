@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: personal biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I'm a 4th year PhD student under the supervision of [Prof.Qingcai Chen](https://scholar.google.com/citations?user=7aR5D4sAAAAJ) at Intelligent Computing Research Center, Harbin Institute of Technology (HIT), Shenzhen.
+
+- Email: LisaiZhanng@foxmail.com
+- Here is my resume
+- My [google scholar](https://scholar.google.com/citations?user=Q3SVOv4AAAAJ)
