@@ -36,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ACM Multimedia*
+publication_short: In *ACM Multimedia 2020*
 url_source: ""
 url_video: ""
 title: Text-Guided Neural Image Inpainting
@@ -50,7 +50,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: tda.png
+  filename: featured.png
 date: 2022-02-25T11:48:46.139Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
