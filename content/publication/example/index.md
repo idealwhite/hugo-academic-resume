@@ -1,12 +1,25 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: Image inpainting task requires filling the corrupted image with
+  contents coherent with the context. This research field has achieved promising
+  progress by using neural image inpainting methods. Nevertheless, there is
+  still a critical challenge in guessing the missed content with only the
+  context pixels. The goal of this paper is to fill the semantic information in
+  corrupted images according to the provided descriptive text. Unique from
+  existing text-guided image generation works, the inpainting models are
+  required to compare the semantic content of the given text and the remaining
+  part of the image, then find out the semantic content that should be filled
+  for missing part. To fulfill such a task, we propose a novel inpainting model
+  named Text-Guided Dual Attention Inpainting Network (TDANet). Firstly, a dual
+  multimodal attention mechanism is designed to extract the explicit semantic
+  information about the corrupted regions, which is done by comparing the
+  descriptive text and complementary image areas through reciprocal attention.
+  Secondly, an image-text matching loss is applied to maximize the semantic
+  similarity of the generated image and the text. Experiments are conducted on
+  two open datasets. Results show that the proposed TDANet model reaches new
+  state-of-the-art on both quantitative and qualitative measures. Result
+  analysis suggests that the generated images are consistent with the guidance
+  text, enabling the generation of various results by providing different
+  description
 slides: example
 url_pdf: ""
 publication_types:
@@ -17,7 +30,7 @@ authors:
   - Baotian Hu
   - Shuoran Jiang
 author_notes: []
-publication: In *ACM MM*, (Oral)
+publication: In *ACM MM 2020*, (Oral)
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -37,9 +50,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+  filename: tda.png
+date: 2022-02-25T11:48:46.139Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
