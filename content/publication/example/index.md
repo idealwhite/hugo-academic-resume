@@ -42,7 +42,9 @@ subtitle: ""
 doi: ""
 featured: true
 tags: []
-projects: []
+projects:
+  - Natural Science Foundation of China
+  - Grant No.61872113
 image:
   caption: "Illustration of inpainting a unique area. "
   focal_point: ""
