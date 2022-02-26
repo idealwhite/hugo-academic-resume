@@ -10,7 +10,7 @@ authors:
   - Buzhou Tang
 doi: "3462244.3479965"
 publication: International Conference on Multimodal Interaction, 2021
-publication_short: ""
+publication_short: ICMI, 2021
 abstract: "Integrating visual features has been proved useful for natural
   language understanding tasks. Nevertheless, most existing multimodal language
   models highly rely on training on aligned image and text data. In this paper,
@@ -35,5 +35,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2021-10-18T02:36:36.933Z
+date: 2022-02-26T03:03:54.771Z
 ---
