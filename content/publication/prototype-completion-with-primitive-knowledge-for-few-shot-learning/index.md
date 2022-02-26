@@ -1,0 +1,43 @@
+---
+title: Prototype completion with primitive knowledge for few-shot learning
+publication_types:
+  - "1"
+authors:
+  - Baoquan Zhang
+  - Xutao Li
+  - Yunming Ye
+  - Zhichao Huang
+  - Lisai Zhang
+publication: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition
+publication_short: CVPR 2021
+abstract: Few-shot learning is a challenging task, which aims to learn a
+  classifier for novel classes with few examples. Pre-training based
+  meta-learning methods effectively tackle the problem by pre-training a feature
+  extractor and then fine-tuning it through the nearest centroid based
+  meta-learning. However, results show that the fine-tuning step makes very
+  marginal improvements. In this paper, 1) we figure out the key reason, ie, in
+  the pre-trained feature space, the base classes already form compact clusters
+  while novel classes spread as groups with large variances, which implies that
+  fine-tuning the feature extractor is less meaningful; 2) instead of
+  fine-tuning the feature extractor, we focus on estimating more representative
+  prototypes during meta-learning. Consequently, we propose a novel prototype
+  completion based meta-learning framework. This framework first introduces
+  primitive knowledge (ie, class-level part or attribute annotations) and
+  extracts representative attribute features as priors. Then, we design a
+  prototype completion network to learn to complete prototypes with these
+  priors. To avoid the prototype completion error caused by primitive knowledge
+  noises or class differences, we further develop a Gaussian based prototype
+  fusion strategy that combines the mean-based and completed prototypes by
+  exploiting the unlabeled samples. Extensive experiments show that our
+  method:(i) can obtain more accurate prototypes;(ii) outperforms
+  state-of-the-art techniques by 2% 9% in terms of classification accuracy. Our
+  code is available online.
+draft: false
+featured: false
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
+date: 2021-09-02T03:41:52.374Z
+---
