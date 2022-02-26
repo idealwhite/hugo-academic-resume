@@ -35,6 +35,8 @@ abstract: Few-shot learning is a challenging task, which aims to learn a
   code is available online.
 draft: false
 featured: false
+projects:
+  - https://github.com/zhangbq-research/Prototype_Completion_for_FSL
 image:
   filename: featured.png
   focal_point: Smart
