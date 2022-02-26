@@ -9,7 +9,7 @@ authors:
   - Joanna Siebert
   - Buzhou Tang
 doi: "3462244.3479965"
-publication: International Conference on Multimodal Interaction
+publication: International Conference on Multimodal Interaction, 2021
 publication_short: ""
 abstract: "Integrating visual features has been proved useful for natural
   language understanding tasks. Nevertheless, most existing multimodal language
@@ -35,5 +35,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-02-26T02:36:36.933Z
+date: 2021-10-18T02:36:36.933Z
 ---
