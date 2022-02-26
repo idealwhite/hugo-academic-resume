@@ -34,7 +34,7 @@ publication: In *ACM MM 2020*, (Oral)
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ACM Multimedia 2020*
+publication_short: In *ACM Multimedia 2020 (Oral)*
 url_source: ""
 url_video: ""
 title: Text-Guided Neural Image Inpainting
