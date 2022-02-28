@@ -1,7 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-title: Semantic Representation Method based on Multimodal Fusion
+title: Semantic Representation Method based on Multimodal Fusion (Natural
+  Science Foundation of China)
 summary: ""
 url_video: ""
 date: 2018-01-02T00:00:00.000Z
