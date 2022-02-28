@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-I'm a 4th year PhD student under the supervision of [Prof.Qingcai Chen](https://scholar.google.com/citations?user=7aR5D4sAAAAJ) at Intelligent Computing Research Center, Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)), Shenzhen. My research interests include cross-modal generation and retrieval, including vision-language models for text-to-image synthesis, text-guided image inpainting, and text-to-image retrieval.  Here is my [google scholar](https://scholar.google.com/citations?user=Q3SVOv4AAAAJ).
+I'm a 4th year PhD student under the supervision of [Prof.Qingcai Chen](https://scholar.google.com/citations?user=7aR5D4sAAAAJ) at Intelligent Computing Research Center, Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)), Shenzhen. My research interests include cross-modal generation and retrieval. Specificlly, I build vision-language models for text-to-image synthesis, text-guided image inpainting, and text-to-image retrieval.  Here is my [google scholar](https://scholar.google.com/citations?user=Q3SVOv4AAAAJ).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
